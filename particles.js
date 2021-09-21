@@ -39,9 +39,9 @@ var pJS = function(tag_id, params){
           nb_sides: 5
         },
         image: {
-          src: '',
-          width: 100,
-          height: 100
+          src: 'moonlady.jpg',
+          width: 1920,
+          height: 1080
         }
       },
       opacity: {
